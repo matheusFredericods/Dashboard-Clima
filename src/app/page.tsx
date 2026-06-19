@@ -1,7 +1,7 @@
 export default function Home() {
   return (
    <div>
-    <h1>Dashboard de Clima</h1>
+    <h1>Página Inicial</h1>
    </div>
   );
 }
